@@ -1,0 +1,94 @@
+/* AuthApi2 styles - v.20160623-0000 */
+
+/* AuthApi2 dialog common styles */
+.aapi-dlg {
+	font-size: 15px;
+	color: gray;
+}
+.aapi-dlg-unit{
+	margin-bottom: .6em;
+}
+.aapi-dlg-unit.header{
+	text-align: center;
+	background-color: #eeeeee;
+	padding: .4em 0;
+}
+.aapi-dlg-unit.warnings{
+	text-align: center;
+	color: #C90202;
+	background-color: #FCEB00;
+	padding: .4em 0;
+}
+.aapi-dlg-unit.success{
+	text-align: center;
+	font-weight: bold;
+	color: #005B03;
+	background-color: #42FF3F;
+	padding: .4em 0;
+}
+
+
+/* overwrite some jquery-ui styles */
+.aapi-dlg .ui-widget-content .ui-state-default {
+	background: #cccccc;
+	color: #666666;
+}
+.aapi-dlg .ui-widget-content .ui-state-focus {
+	background: #cccccc;
+	color: #666666;
+}
+.aapi-dlg .ui-widget-content .ui-state-hover {
+	background: #dddddd;
+	color: #D38600;
+}
+.aapi-dlg .ui-dialog-buttonpane {
+	margin-top: 0;
+}
+.aapi-dlg .ui-dialog-buttonpane button {
+	margin: 0 .4em 0 0;
+}
+.aapi-dlg .ui-dialog-content{
+	padding-bottom: 0;
+}
+
+
+/* AuthApi2 PasswordChange dialog specific styles */
+.aapi-dlg.aDlgPwchange label{
+	display: block;
+	width: 95%;
+}
+.aapi-dlg.aDlgPwchange input{
+	display: block;
+	width: 95%;
+}
+.aapi-dlg.aDlgPwchange .hint{
+	color: silver;
+	font-size: 70%;
+}
+
+/* AuthApi2 AccountChoose dialog specific styles */
+.aapi-dlg.aDlgPFolio {
+	font-size: 12px;
+}
+.aapi-dlg.aDlgPFolio .item-group{
+	font-weight: bold;
+	background-color: #efefef;
+	text-align: center;
+	padding: .3em 0;
+}
+.aapi-dlg.aDlgPFolio .item{
+	cursor: pointer;
+}
+.aapi-dlg.aDlgPFolio .item:hover{
+	cursor: pointer;
+	background-color: #FFFFC6;
+}
+.aapi-dlg.aDlgPFolio .item .name{
+	color: #7E93CC;
+	font-size: 14px;
+}
+.aapi-dlg.aDlgPFolio .item .codes{
+	color: #aaaaaa;
+	font-size: 10px;
+}
+
