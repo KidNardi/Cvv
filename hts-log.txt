@@ -1,0 +1,220 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Nov 2020 11:53:39 at http://web.spaggiari.eu/home/app/default/login.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "it, en, *" http://web.spaggiari.eu/home/app/default/login.php -O1 "C:\Users\Jonathan\Desktop\cvv\cvv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:04	Warning: 	unexpected incomplete type with 200 code at https://www.youtube.com/channel/UC1LDksCF2ft7a0UYcuXT62w/featured
+11:54:29	Warning: 	File not parsed, looks like binary: https://player.vimeo.com/video/456980527
+11:54:33	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1150): https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+11:54:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 8061): https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+11:54:53	Warning: 	unexpected incomplete type with 200 code at l.facebook.com/l.php?u=http%3A%2F%2Fshare.here.com%2Fr%2Fmylocation%2Fe-eyJuYW1lIjoiR3J1cHBvIFNwYWdnaWFyaSBQYXJtYSIsImFkZHJlc3MiOiJWaWEgRmVyZGluYW5kbyBCZXJuaW5pIDIyXC9BLCBQYXJtYSwgRW1pbGlhLVJvbWFnbmEiLCJsYXRpdHVkZSI6NDQuODEwNDUxMSwibG9uZ2l0dWRlIjoxMC4zMDY1MDMxLCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjkwNzYyODkxNjAxMDMyMH0%3D%3Flink%3Daddresses%26fb_locale%3Dit_IT%26ref%3Dfacebook&h=AT2opRCpW1A7qc4JqPxyIu6ljzQo1azrEWcDAl3E5XZuUGmdXjIa36bcY7yG5aVWaIRG4QwhhJVaJRsXD6gDoYf6XYbTSYYloUNS6ZBIYtb-KvizJqeVolW5Xvz-TJLdeNz4FA6I69UzAgtoFTAZqmj6ZcMYikIoGBg
+11:55:22	Warning: 	Found for https://www.linkedin.com/company-beta/10958441/
+11:55:22	Warning: 	File has moved from https://www.linkedin.com/company-beta/10958441/ to https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany-beta%2F10958441%2F
+11:55:23	Warning: 	Moved Permanently for shop.spaggiari.eu/robots.txt
+11:55:23	Warning: 	File has moved from shop.spaggiari.eu/robots.txt to https://web.spaggiari.eu/shop/robots.txt
+11:55:23	Warning: 	Moved Permanently for shop.spaggiari.eu/
+11:55:23	Warning: 	File has moved from shop.spaggiari.eu/ to https://web.spaggiari.eu/shop/
+11:55:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.linkedin.com/company/gruppo-spaggiari-parma/ (from https://web.spaggiari.eu/home/app/default/login.php)
+11:55:27	Warning: 	File not parsed, looks like binary: https://www.youtube.com/channel/UC1LDksCF2ft7a0UYcuXT62w/featured
+11:55:28	Warning: 	Found for www.spaggiari.eu/
+11:55:28	Warning: 	File has moved from www.spaggiari.eu/ to https://web.spaggiari.eu/www/app/default/index.php
+11:55:30	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://web.spaggiari.eu/www/app/default/index.php -> C:/Users/Jonathan/Desktop/cvv/cvv/web.spaggiari.eu/www/app/default/index.ca.delayed
+11:55:30	Warning: 	link is probably looping, type unknown, aborting: https://web.spaggiari.eu/www/app/default/index.php
+11:55:32	Warning: 	unexpected incomplete type with 200 code at https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900
+11:55:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900 -> C:/Users/Jonathan/Desktop/cvv/cvv/fonts.googleapis.com/css.cde88b.delayed
+11:55:35	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900
+11:55:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900 -> C:/Users/Jonathan/Desktop/cvv/cvv/fonts.googleapis.com/css.cde88b.delayed
+11:55:43	Warning: 	link is probably looping, type unknown, aborting: https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/btn_link_left.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/btn_link.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/tasto_chiaro.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/tasto_colore.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/barra_spaziatrice.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/img/barra_spaziatrice_colore.png (from https://web.spaggiari.eu/home/css/globale.css?v=1)
+11:55:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+11:55:49	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+11:55:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:55:50	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+11:55:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+11:55:50	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+11:56:11	Warning: 	unexpected incomplete type with 200 code at https://it-it.facebook.com/GruppoSpaggiariParma
+11:56:20	Warning: 	unexpected incomplete type with 200 code at https://lm.facebook.com/l.php?u=https%3A%2F%2Fweb.spaggiari.eu%2Fshop%2F&h=AT32ym_LH1clX8QON1H0Z06FXauTfaluRBNU93NW6AOxmNAUKR_nb9DS6dlUm_p6AWoMMkWqVNm7EhTUts-xHmT8H6hPaRwr73Y2F76Wd_I3jex82PpYPyRochjzetk82gLBHlbgOeUhpj7pBFFcLz8M
+11:57:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/ajax/photos/snowlift/init.php
+11:57:05	Warning: 	Moved Permanently for schema.org/robots.txt
+11:57:05	Warning: 	Redirected link is identical because of 'URL Hack' option: schema.org/robots.txt and https://schema.org/robots.txt
+11:57:05	Warning: 	Warning moved treated for schema.org/robots.txt (real one is https://schema.org/robots.txt)
+11:57:05	Warning: 	Moved Permanently for schema.org/Organization
+11:57:05	Warning: 	Redirected link is identical because of 'URL Hack' option: schema.org/Organization and https://schema.org/Organization
+11:57:05	Warning: 	File has moved from schema.org/Organization to https://schema.org/Organization
+11:57:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:57:05	Warning: 	link is probably looping, type unknown, aborting: https://schema.org/Organization
+11:57:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:57:05	Warning: 	link is probably looping, type unknown, aborting: https://schema.org/Organization
+11:57:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+11:57:05	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+11:57:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:57:05	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+11:57:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+11:57:05	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+11:57:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+11:57:39	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+11:57:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:57:39	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+11:59:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+11:59:24	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+11:59:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+11:59:25	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:00:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:00:09	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:00:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:00:11	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:00:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:00:32	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:00:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:00:32	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:00:54	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:00:54	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:00:54	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:00:54	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:01:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:01:00	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:01:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:01:00	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:01:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:01:01	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:01:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:01:01	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:01:14	Warning: 	Found for l.facebook.com/robots.txt
+12:01:14	Warning: 	Warning moved treated for l.facebook.com/robots.txt (real one is https://www.facebook.com/robots.txt)
+12:01:17	Warning: 	File not parsed, looks like binary: l.facebook.com/l.php?u=http%3A%2F%2Fshare.here.com%2Fr%2Fmylocation%2Fe-eyJuYW1lIjoiR3J1cHBvIFNwYWdnaWFyaSBQYXJtYSIsImFkZHJlc3MiOiJWaWEgRmVyZGluYW5kbyBCZXJuaW5pIDIyXC9BLCBQYXJtYSwgRW1pbGlhLVJvbWFnbmEiLCJsYXRpdHVkZSI6NDQuODEwNDUxMSwibG9uZ2l0dWRlIjoxMC4zMDY1MDMxLCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjkwNzYyODkxNjAxMDMyMH0%3D%3Flink%3Daddresses%26fb_locale%3Dit_IT%26ref%3Dfacebook&h=AT2opRCpW1A7qc4JqPxyIu6ljzQo1azrEWcDAl3E5XZuUGmdXjIa36bcY7yG5aVWaIRG4QwhhJVaJRsXD6gDoYf6XYbTSYYloUNS6ZBIYtb-KvizJqeVolW5Xvz-TJLdeNz4FA6I69UzAgtoFTAZqmj6ZcMYikIoGBg
+12:01:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:01:26	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:01:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:01:26	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:01:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:01:35	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:01:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:01:35	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:02:06	Warning: 	unexpected incomplete type with 200 code at https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+BreadcrumbList
+12:02:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:02:26	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:02:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:02:26	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:02:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+12:02:26	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+12:02:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:02:43	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:02:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:02:43	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:02:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+12:02:43	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+12:03:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 5430): https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:03:47	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:03:47	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f4bb.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:03:47	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1/16/1f4cc.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:03:48	Warning: 	Found for https://l.facebook.com/robots.txt
+12:03:48	Warning: 	Warning moved treated for https://l.facebook.com/robots.txt (real one is https://www.facebook.com/robots.txt)
+12:03:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://media.spaggiari.eu/bianco/flip_page/cataloghi/NGS20/index.html -> C:/Users/Jonathan/Desktop/cvv/cvv/media.spaggiari.eu/bianco/flip_page/cataloghi/NGS20/index.30d.delayed
+12:03:51	Warning: 	link is probably looping, type unknown, aborting: https://media.spaggiari.eu/bianco/flip_page/cataloghi/NGS20/index.html
+12:03:51	Warning: 	unexpected incomplete type with 200 code at https://media.spaggiari.eu/bianco/flip_page/cataloghi/NGS20/index.html
+12:03:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:03:51	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:04:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:04:13	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:04:18	Warning: 	unexpected incomplete type with 200 code at https://fr-fr.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:23	Warning: 	unexpected incomplete type with 200 code at https://sc-it.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:23	Warning: 	unexpected incomplete type with 200 code at https://ro-ro.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:23	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:04:23	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:04:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:04:24	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:04:24	Warning: 	unexpected incomplete type with 200 code at https://de-de.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+12:04:24	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+12:04:24	Warning: 	unexpected incomplete type with 200 code at https://es-la.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:28	Warning: 	unexpected incomplete type with 200 code at https://ar-ar.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:30	Warning: 	unexpected incomplete type with 200 code at https://sq-al.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:32	Warning: 	unexpected incomplete type with 200 code at https://pt-br.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:32	Warning: 	unexpected incomplete type with 200 code at https://hi-in.facebook.com/GruppoSpaggiariParma/posts/3084261275013729
+12:04:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:04:33	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:04:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:04:34	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:04:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT -> C:/Users/Jonathan/Desktop/cvv/cvv/external-mxp1-1.xx.fbcdn.net/static_map.7bebed.delayed
+12:04:34	Warning: 	link is probably looping, type unknown, aborting: https://external-mxp1-1.xx.fbcdn.net/static_map.php?v=2008&osm_provider=2&size=306x98&zoom=15&markers=44.81045110%2C10.30650310&language=it_IT
+12:04:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:04:50	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:04:55	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/ta0/1/16/1f4d8.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:04:55	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t57/1/16/1f4f1.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:04:55	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1/16/1f4da.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:04:56	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/td8/1/16/1f4f2.png" (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:04:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:04:56	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:05:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:05:04	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:05:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:05:05	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:05:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:05:05	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:06:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:06:24	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:06:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:06:51	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:07:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:07:01	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:07:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:07:11	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:07:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:07:11	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:07:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:07:13	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:07:18	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:07:18	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:07:21	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.2c5.delayed
+12:07:21	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico
+12:07:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico -> C:/Users/Jonathan/Desktop/cvv/cvv/static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.53.delayed
+12:07:24	Warning: 	link is probably looping, type unknown, aborting: https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico
+12:07:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: schema.org/Organization -> C:/Users/Jonathan/Desktop/cvv/cvv/schema.org/Organization.76.delayed
+12:07:24	Warning: 	link is probably looping, type unknown, aborting: schema.org/Organization
+12:07:42	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/theaustralian.com.au (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:07:43	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/news.com.au (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:08:03	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/kollosche.com.au (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:08:04	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/awstrack.me (from https://www.facebook.com/GruppoSpaggiariParma/)
+12:08:06	Error: 	Exit requested by shell or user
+12:08:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.linkedin.com/company/gruppo-spaggiari-parma/ (from https://web.spaggiari.eu/home/app/default/login.php)
+12:08:19	Warning: 	File not parsed, looks like binary: https://web.spaggiari.eu/www/app/default/index.php
+12:08:19	Warning: 	File not added due to mirror cancel: https://fonts.googleapis.com/robots.txt
+12:08:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1148): https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Raleway:400,900
+12:08:19	Error: 	"Not Found" (404) at link https://web.spaggiari.eu/home/app/default/privacy/img/gruppospaggiariparma_new.png (from https://web.spaggiari.eu/home/app/default/informativa.php?t=company_info&pt=detail&v=company_info)
+12:08:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1962): https://media.spaggiari.eu/home/informativa/cookie/1.svg
+12:08:25	Warning: 	File not added due to mirror cancel: www.w3.org/robots.txt
+12:08:25	Warning: 	Moved Permanently for www.w3.org/1999/xhtml
+12:08:25	Warning: 	File has moved from www.w3.org/1999/xhtml to https://www.w3.org/1999/xhtml/
+12:08:25	Warning: 	File not added due to mirror cancel: https://it-it.facebook.com/robots.txt
+12:08:25	Warning: 	File not parsed, looks like binary: https://it-it.facebook.com/GruppoSpaggiariParma
+12:08:25	Warning: 	File not added due to mirror cancel: https://lm.facebook.com/robots.txt
+12:08:25	Warning: 	File not parsed, looks like binary: https://lm.facebook.com/l.php?u=https%3A%2F%2Fweb.spaggiari.eu%2Fshop%2F&h=AT32ym_LH1clX8QON1H0Z06FXauTfaluRBNU93NW6AOxmNAUKR_nb9DS6dlUm_p6AWoMMkWqVNm7EhTUts-xHmT8H6hPaRwr73Y2F76Wd_I3jex82PpYPyRochjzetk82gLBHlbgOeUhpj7pBFFcLz8M
+12:08:25	Error: 	"Not Found" (404) at link https://m.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png" (from https://m.facebook.com/GruppoSpaggiariParma/?locale2=it_IT)
+12:08:25	Error: 	"Not Found" (404) at link https://m.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1/16/1f4cc.png" (from https://m.facebook.com/GruppoSpaggiariParma/?locale2=it_IT)
+12:08:25	Error: 	"Not Found" (404) at link https://m.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/ta5/1/16/1f195.png" (from https://m.facebook.com/GruppoSpaggiariParma/?locale2=it_IT)
+12:08:25	Error: 	"Not Found" (404) at link https://m.facebook.com/GruppoSpaggiariParma/"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png" (from https://m.facebook.com/GruppoSpaggiariParma/?locale2=it_IT)
+12:08:26	Error: 	"Not Found" (404) at link https://www.facebook.com/GruppoSpaggiariParma/^([^:/? (from https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/AJclWmA42A_.js?_nc_x=Ij3Wp8lg5Kz)
+12:08:26	Warning: 	File not parsed, looks like binary: www.w3.org/2000/svg
+12:08:26	Error: 	"Not Found" (404) at link https://www.facebook.com/search/?bqf=str%2FIstruzione%2Fkeywords_pages&ref=page_about_category&f=AbrwXxrEERqtt1Tzs6ed_jBzpPz1WeXnKrCTscE94VZIbwOczLUJCrIDtZ7hkMzyvc251aeomXKBZ43u3qrU7Ily3Ws8Oc7clWDGl3xzYNTjgg (from https://www.facebook.com/GruppoSpaggiariParma/?ref=page_internal)
+12:08:37	Warning: 	Found for https://www.facebook.com/browse/fanned_pages/?id=907628916010320&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal
+12:08:37	Warning: 	File has moved from https://www.facebook.com/browse/fanned_pages/?id=907628916010320&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal to https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fbrowse%2Ffanned_pages%2F%3Fid%3D907628916010320%26showauxiliary%3D1%26fanorigin%3Dtimeline_like_chaining%26ref%3Dpage_internal
+12:08:39	Warning: 	Found for https://www.facebook.com/advertising/?campaign_id=242449722530626&placement=pf_rhc&extra_1=not-admgr-user
+12:08:39	Warning: 	File has moved from https://www.facebook.com/advertising/?campaign_id=242449722530626&placement=pf_rhc&extra_1=not-admgr-user to https://www.facebook.com/business/
+12:08:45	Error: 	Exit requested by shell or user
+12:08:45	Error: 	"" (-1) at link https://www.facebook.com/coldirettipiemonte/?fref=mentions (from https://www.facebook.com/GruppoSpaggiariParma/?ref=page_internal)
+12:08:45	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 6 seconds : 1336 links scanned, 1140 files written (264190252 bytes overall) [72715424 bytes received at 80259 bytes/sec], 280277932 bytes transferred using HTTP compression in 970 files, ratio 22%, 2.9 requests per connection
+(87 errors, 118 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

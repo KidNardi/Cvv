@@ -1,0 +1,30 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.docs.google.com	TRUE	/a/google.com/forms/d/1krxHlWJAO3JgvHRZV9Rugkr9VYnMdrI10xbGsWt733c	FALSE	1999999999	S	spreadsheet_forms=t0GJslX4aSyAmB_TLt0QxY_yvuNeygry4y29ev517R4
+web.spaggiari.eu	TRUE	/	FALSE	1999999999	LAST_REQUESTED_TARGET	cvv
+.facebook.com	TRUE	/	FALSE	1999999999	sb	RBStX3zE3f3XD8ohF2KKE4Nm
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:9093365114487767505
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=it-it
+.linkedin.com	TRUE	/	FALSE	1999999999	lissc	1
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=TGST02:s=T:r=T:g=2359:u=1:i=1605178439:t=1605264839:v=1:sig=AQHlo-MjcyimEsAvPY0ubObylcsNrsZm"
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	XQtfGg-412w
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	Ong2kv-ihgU
+www.youtube.com	TRUE	/	FALSE	1999999999	samesite	None
+web.spaggiari.eu	TRUE	/	FALSE	1999999999	PHPSESSID	r7gsbna0m0sscs6vk8a9ff1stk4u33d0
+.facebook.com	TRUE	/	FALSE	1999999999	datr	ahStX339tC5JgfOj_zRB6HbC
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&573aad02-843d-496e-8bb6-ae988441ab5b"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20201112105528ca1fede1-0e6e-4240-8f74-cf61942ca248AQHdJd7QSpAhcVyHg2nGLdatmTdGHSPY"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+web.spaggiari.eu	TRUE	/	FALSE	1999999999	_sshop_tokenTrack	r7gsbna0m0sscs6vk8a9ff1stk4u33d0
+.facebook.com	TRUE	/	FALSE	1999999999	locale	it_IT
+.google.com	TRUE	/	FALSE	1999999999	NID	204=jdZ4nvWnOE7HBU-Po4WAioCOZqwkRqJR8lRH-_jsZ9HyHVUC6h89m5xH4rLa2s4yBGeDmCerFSnb49A7QwHio1LRqCF2HbdUI1f9OPtMMV8ijbDd55W-GrejghhpmD4GiVxSqkjahN66aWDUFNelsipNlg-ssoAT2e_LfQhO-mY
+docs.google.com	TRUE	/	FALSE	1999999999	SameSite	none
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	zygGVbohTt8pJjwjGyg8%2FmA%2FVECbgo7qpa95KeKXzOiEc7dKTsEHmsaracQf0eqHRP443nnnck7LEJbV5PF5ee0pGidlSSLKJTiBpDAnPlIxKUyWECX%2F9TQNbmkd3ClbdWHkkGIvvBfJaet1Yp72%2BeZvNWiyRgMogeNbhH65Va%2FFxvdGqYKIUKBAbfQkS9UAt21%2Bdmc3IpkjiT0%2F%2FhxcX%2F%2FrZyds4Mz4lHSNZWtwYVHtW4LdVqFdweRuXntFG8QxurdweV2QaNK4HGNpgUnJZg%3D%3D--H0JdjhM0xPIvMVJW--LEqqRmzO%2FmHB4SuhlXjvpg%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1843575583.1605178927
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.facebook.com	TRUE	/	FALSE	1999999999	fr	1i4S1IWmJCpBidzQn..BfrRRE.Rm.AAA.0.0.BfrReX.AWW7bJwjNgw
+
